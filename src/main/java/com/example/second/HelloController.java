@@ -11,8 +11,8 @@ public class HelloController {
 
     @GetMapping("/")
     public String route() {
-        LOG.info("Request receivedd");
-        return "Helloo Finally";
+        LOG.info("Request Received /");
+        return "Helloo World";
     }
 
     @GetMapping("/1")
