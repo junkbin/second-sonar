@@ -40,6 +40,12 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+		<dependency>
+			<groupId>com.verifone.common</groupId>
+			<artifactId>mop-logging</artifactId>
+			<version>0.5.2-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 
 	<build>
