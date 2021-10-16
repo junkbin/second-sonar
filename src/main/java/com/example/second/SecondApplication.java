@@ -10,13 +10,6 @@ public class SecondApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SecondApplication.class, args);
-
-		int i = 0;
-		if( i == 1) {
-			if(i == 2) {
-
-			}
-		}
 	}
 
 }
